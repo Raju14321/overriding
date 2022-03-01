@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\over ridding\obj\Debug\netcoreapp3.1\over ridding.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\over ridding\obj\Debug\netcoreapp3.1\over ridding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\over ridding\obj\Debug\netcoreapp3.1\over ridding.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\over ridding\obj\Debug\netcoreapp3.1\over ridding.AssemblyInfo.cs
+C:\Users\jacob\source\repos\over ridding\obj\Debug\netcoreapp3.1\over ridding.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\over ridding\bin\Debug\netcoreapp3.1\over ridding.exe
+C:\Users\jacob\source\repos\over ridding\bin\Debug\netcoreapp3.1\over ridding.deps.json
+C:\Users\jacob\source\repos\over ridding\bin\Debug\netcoreapp3.1\over ridding.runtimeconfig.json
+C:\Users\jacob\source\repos\over ridding\bin\Debug\netcoreapp3.1\over ridding.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\over ridding\bin\Debug\netcoreapp3.1\over ridding.dll
+C:\Users\jacob\source\repos\over ridding\bin\Debug\netcoreapp3.1\over ridding.pdb
+C:\Users\jacob\source\repos\over ridding\obj\Debug\netcoreapp3.1\over ridding.dll
+C:\Users\jacob\source\repos\over ridding\obj\Debug\netcoreapp3.1\over ridding.pdb
+C:\Users\jacob\source\repos\over ridding\obj\Debug\netcoreapp3.1\over ridding.genruntimeconfig.cache
